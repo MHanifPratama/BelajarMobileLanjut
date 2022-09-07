@@ -18,7 +18,7 @@ class Recipe {
     ),
     Recipe(
       'Tomato Soup',
-      '27729023535_a57606c1be.jpg',
+      'assets/27729023535_a57606c1be.jpg',
       2,
       [
         Ingredient(1, 'can', 'Tomato Soup'),
